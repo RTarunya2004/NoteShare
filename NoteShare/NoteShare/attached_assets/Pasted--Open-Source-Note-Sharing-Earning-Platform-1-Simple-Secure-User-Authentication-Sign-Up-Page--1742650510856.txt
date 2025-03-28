@@ -1,0 +1,84 @@
+📌 Open-Source Note-Sharing & Earning Platform 
+1. Simple & Secure User Authentication
+Sign-Up Page: Users register with Email, Username, and Password.
+
+Login Page: Users sign in using their registered email and password.
+
+Logout Option: Available after successful login.
+
+Session Management: Keeps users logged in securely until they choose to log out.
+
+Basic Validation: Ensures correct email format and strong password rules.
+
+2. Document Upload & Open Access Download System
+✅ Allowed File Types (No Audio/Video)
+PDF, DOCX, TXT, PPT, ZIP, CSV, XLSX, JSON, Markdown, LaTeX
+
+Bulk Upload & Drag-and-Drop Support for faster management.
+
+All Files Are Publicly Listed – Anyone can view available content.
+
+Smart Categorization & Tags – Easier file discovery.
+
+📥 Download System (Free & Premium Model)
+Any user can download any file they want.
+
+Premium Files Require Payment (Users must pay or use coins).
+
+Instant Access to Free Files without restrictions.
+
+Smart Preview System – Users can see a short preview before purchasing premium notes.
+
+3. Coin-Based Reward & Monetization System
+💰 Earn Coins by Uploading Notes
+Users earn coins for every upload (e.g., 5 or 10 coins per file).
+
+Coins are dynamically updated based on system engagement & user level.
+
+🔹 Spending Coins
+Use Coins to Download Premium Notes instead of paying real money.
+
+Convert Coins into Real Money (when a user earns a certain amount).
+
+Users Can Purchase Extra Coins if needed.
+
+🔹 Monetization Model
+Users Can Sell Premium Notes – Set a price per document.
+
+Platform Revenue Share – A small commission on each sale.
+
+Referral System – Earn bonus coins by inviting new users.
+
+4. Smart Organization & Advanced Search
+Dynamic Categories & Tags for better navigation.
+
+Real-Time Search & Filters – Quickly find relevant documents.
+
+Trending & Featured Notes Section – Highlights top-rated content.
+
+5. Community Engagement & Social Features
+Like, Comment, and Rate uploaded documents.
+
+Flag & Report Faulty Notes – Users earn coins for identifying errors.
+
+Follow Authors & Get Updates when they upload new notes.
+
+Discussion Threads for Notes – Engage in knowledge-sharing discussions.
+
+6. User Dashboards & Analytics
+📊 User Dashboard
+View uploaded files, downloads, earned coins, and premium purchases.
+
+Track comments, ratings, and flagged content.
+
+📊 Admin Dashboard
+Manage Content & Users – Approve/flag files, handle disputes.
+
+Monitor Earnings & Transactions – Oversee platform-wide monetization.
+
+7. Payment System & Wallet
+Integrated Payment Gateways – Stripe, PayPal, Google Pay, Apple Pay.
+
+In-App Wallet & Auto-Payouts – Users can withdraw earnings.
+
+Flexible Payment Methods – Pay with coins or real money.
